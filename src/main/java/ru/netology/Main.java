@@ -14,5 +14,6 @@ public class Main {
         post.birthday.day = 13;
         post.birthday.month = 7;
         post.birthday.year = 1993;
+
     }
 }
